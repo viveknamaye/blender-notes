@@ -35,13 +35,13 @@ Erase - D + Right Mouse
 
 ### Selection Techniques-
 
-Loop Selection - Alt + Mouse Right
-Path A-B Selection (selects optimal path from A to B) - Select A + Ctrl + Select B
-Invert a selection - Ctrl + i
-Circle(brush) selection - c + Mouse Right + Scroll Up/Down (change circle size)
-Select neighbours stepwise - Select + Ctrl + +(on numpad)
-Deselect neighbours stepwise - Select + Ctrl + -(on numpad)
-Select All elements of a mesh - Hover + l
+- Loop Selection - Alt + Mouse Right
+- Path A-B Selection (selects optimal path from A to B) - Select A + Ctrl + Select B
+- Invert a selection - Ctrl + i
+- Circle(brush) selection - c + Mouse Right + Scroll Up/Down (change circle size)
+- Select neighbours stepwise - Select + Ctrl + +(on numpad)
+- Deselect neighbours stepwise - Select + Ctrl + -(on numpad)
+- Select All elements of a mesh - Hover + l
 
 ### Proportionate editing-
 
