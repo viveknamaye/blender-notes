@@ -1,1 +1,1 @@
-# Blender notes by vivek for vivek
+# My BLENDER notes
