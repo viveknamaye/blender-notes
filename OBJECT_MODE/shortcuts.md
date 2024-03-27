@@ -8,6 +8,7 @@
 - [Duplicates](#duplicates)
 - [Material Shading](#material-shading)
 - [Camera](#camera)
+- [Toggle Side Panel](#side-panel)
 - [Separate Joint Parts](#seperate-joint-parts)
 
 ---
@@ -90,6 +91,11 @@ Z
 Enter camera perspective - 0(numpad)
 Fix camera with scrolling - checkbox
 Ctrl + Alt + 0 - for both of above
+
+---
+
+### Side Panel
+Toggle - N
 
 ---
 
