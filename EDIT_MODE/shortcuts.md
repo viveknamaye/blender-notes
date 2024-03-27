@@ -24,14 +24,14 @@ V + Select(vertex, edge, face) + drag
 ### Smoothing-
 
 Modifer Properties > Add Modifier > Subdivision Surface -> Levels viewport
-1 viewport - Ctrl 1
-2 viewport - Ctrl 2
-3 viewport - Ctrl 3
+- 1 viewport - Ctrl 1
+- 2 viewport - Ctrl 2
+- 3 viewport - Ctrl 3
 
 ### Annotate-
 
-Draw - D + Left Mouse
-Erase - D + Right Mouse
+- Draw - D + Left Mouse
+- Erase - D + Right Mouse
 
 ### Selection Techniques-
 
